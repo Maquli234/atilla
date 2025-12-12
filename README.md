@@ -37,8 +37,13 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
-##Usage 
+## Usage 
+```bash
 python atilla.py -u "http://localhost/search?q=test"
+python atilla.py -u "http://localhost/page?id=1" --set owasp
+python atilla.py -u "http://localhost/search?q=test" --set advanced -v
+python atilla.py -u "http://localhost/page?id=1" -o results.json
+
 
 
 
