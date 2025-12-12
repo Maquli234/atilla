@@ -35,7 +35,6 @@ git clone https://github.com/Maquli234/atilla.git
 cd ATILLA
 pip install -r requirements.txt
 
----
 
 
 
