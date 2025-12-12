@@ -25,6 +25,14 @@ ATILLA is an educational security testing tool designed to analyze **reflected C
 - Clean CLI interface with colored output
 
 ---
+## 3️⃣ requirements.txt
+
+Minimal and clean:
+
+```txt
+httpx
+colorama
+pyfiglet
 
 ## 📦 Installation
 
@@ -35,12 +43,5 @@ pip install -r requirements.txt
 
 ---
 
-## 3️⃣ requirements.txt
 
-Minimal and clean:
-
-```txt
-httpx
-colorama
-pyfiglet
 
