@@ -32,3 +32,15 @@ ATILLA is an educational security testing tool designed to analyze **reflected C
 git clone https://github.com/yourusername/ATILLA.git
 cd ATILLA
 pip install -r requirements.txt
+
+---
+
+## 3️⃣ requirements.txt
+
+Minimal and clean:
+
+```txt
+httpx
+colorama
+pyfiglet
+
