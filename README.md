@@ -36,6 +36,9 @@ cd atilla
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+```
+##Usage 
+python atilla.py -u "http://localhost/search?q=test"
 
 
 
