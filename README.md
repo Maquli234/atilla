@@ -36,6 +36,8 @@ cd atilla
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+chmod +x atilla.py
+sudo ln -s $(pwd)/atilla.py /usr/local/bin/subliminal
 ```
 ## Usage 
 ```bash
